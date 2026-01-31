@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ritvik Rai 👋
 
-<!--
-**RitvikRai-001/RitvikRai-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech student & aspiring full-stack developer  
+💻 Passionate about backend systems, web development, and GenAI  
+🚀 Building practical projects and improving problem-solving skills  
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java, JavaScript
+- Node.js, Express.js
+- MongoDB
+- HTML, CSS, React (basics)
+- Git & REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Backend services & API development
+- MCP and AI tool integration experiments
+- Web applications & automation projects
+
+## Currently Learning
+- Advanced backend architecture
+- System design fundamentals
+- AI integrations in web apps
+
+## Connect With Me
+📧 Email: rai.ritvik205@gmail.com 
+🔗 LinkedIn: (linkedin.com/in/ritvikrai0611/)
+
